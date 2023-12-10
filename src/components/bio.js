@@ -45,7 +45,7 @@ const Bio = () => {
       {author?.name && (
           <div>
             <p>
-              My name is <strong>{author.name}</strong>, and I'm a {author?.summary || null}
+              My name is <strong>{author.name}</strong>. I'm a {author?.summary || null}
             </p>
             <br />
             <a href={`https://www.linkedin.com/in/${social?.twitter || ``}`}>
