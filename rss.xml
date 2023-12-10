@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Software Engineering blog to discuss the latest trends and best practices in building great products]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Dec 2023 05:17:52 GMT</lastBuildDate><item><title><![CDATA[Welcome to My Blog]]></title><description><![CDATA[This blog is a collection of the many trends, ideas, and practices I've encountered that have had an impact
+on me as an engineer. It is a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/welcome/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/welcome/</guid><pubDate>Sat, 09 Dec 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This blog is a collection of the many trends, ideas, and practices I&apos;ve encountered that have had an impact
+on me as an engineer. It is a means of distilling information and presenting what I consider to be the most important
+aspects of software engineering.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Here we go. Here&apos;s yet another tech blog. Is it a day that ends in &quot;y?&quot;&lt;/p&gt;
+&lt;p&gt;Yes, I&apos;m here to write about tech and software. Fortunately/unfortunately for whoever is reading, my goal is not to
+discuss the latest Javascript framework or explain why I think tool A is better than tool B. I think there are plenty of people
+out there that spend enough time on those topics. I want to spend the majority of this blog exploring concepts that
+may otherwise seem impractical.&lt;/p&gt;
+&lt;p&gt;Reading books like Robert Martin&apos;s &lt;em&gt;&lt;a href=&quot;https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882&quot;&gt;Clean Code&lt;/a&gt;&lt;/em&gt;
+is one thing but applying what you&apos;ve learned into an actual codebase reinforces those concepts and lets you think
+beyond your projects. Most books provide simple chapter-by-chapter explanations and code examples. What I aim to do
+is to detail real-life instances of how I&apos;ve used certain practices in my career and the design tradeoffs
+that have come with it. Often this means analyzing a use case and then coming up with a basic end-to-end solution. At
+the very least, someone should be able to use these solutions as a guiding template.&lt;/p&gt;
+&lt;p&gt;These posts are also a way for me to go back and compare my current beliefs against what I thought in the past.
+I&apos;ve re-prioritized certain aspects of building software a few times over the past 5 years so I hope this will measure
+the maturity of how I evaluate the discipline overall.&lt;/p&gt;
+&lt;p&gt;So welcome! I hope you&apos;ll join me on this journey of building things that impact the world ☺️&lt;/p&gt;</content:encoded></item></channel></rss>
