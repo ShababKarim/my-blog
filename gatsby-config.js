@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Hi, I'm Shabab 👋🏽`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Shabab Karim`,
+      summary: `a Muslim software engineer based out of Houston, TX 🤠`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Software Engineering blog to discuss the latest trends and best practices in building great products`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `shabab-karim-43262413b`,
     },
   },
   plugins: [
