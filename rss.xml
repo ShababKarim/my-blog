@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Software Engineering blog to discuss the latest trends and best practices in building great products]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Dec 2023 06:02:51 GMT</lastBuildDate><item><title><![CDATA[Welcome to My Blog]]></title><description><![CDATA[This blog is a collection of the many trends, ideas, and practices I've encountered that have had an impact
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Software Engineering blog to discuss the latest trends and best practices in building great products]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Dec 2023 18:19:55 GMT</lastBuildDate><item><title><![CDATA[Welcome to My Blog]]></title><description><![CDATA[This blog is a collection of the many trends, ideas, and practices I've encountered that have had an impact
 on me as an engineer. It is a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/welcome/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/welcome/</guid><pubDate>Sat, 09 Dec 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This blog is a collection of the many trends, ideas, and practices I&apos;ve encountered that have had an impact
 on me as an engineer. It is a means of distilling information and presenting what I consider to be the most important
 aspects of software engineering.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Here we go. Here&apos;s yet another tech blog. Is it a day that ends in &quot;y?&quot;&lt;/p&gt;
-&lt;p&gt;Yes, I&apos;m here to write about tech and software. Fortunately/unfortunately for whoever is reading, my goal is not to
-discuss the latest Javascript framework or explain why I think tool A is better than tool B. I think there are plenty of people
+&lt;p&gt;Yes, I&apos;m here to write about tech and software. Fortunately/unfortunately for whoever is reading, my goal isn&apos;t to
+discuss the latest Javascript framework or explain why I think tool A is better than tool B. I think there&apos;s plenty of people
 out there that spend enough time on those topics. I want to spend the majority of this blog exploring concepts that
 may otherwise seem impractical.&lt;/p&gt;
-&lt;p&gt;Reading books like Robert Martin&apos;s &lt;em&gt;&lt;a href=&quot;https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882&quot;&gt;Clean Code&lt;/a&gt;&lt;/em&gt;
-is one thing but applying what you&apos;ve learned into an actual codebase reinforces those concepts and lets you think
-beyond your projects. Most books provide simple chapter-by-chapter explanations and code examples. What I aim to do
-is to detail real-life instances of how I&apos;ve used certain practices in my career and the design tradeoffs
-that have come with it. Often this means analyzing a use case and then coming up with a basic end-to-end solution. At
-the very least, someone should be able to use these solutions as a guiding template.&lt;/p&gt;
+&lt;p&gt;Reading content-rich books like Robert Martin&apos;s &lt;em&gt;&lt;a href=&quot;https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882&quot;&gt;Clean Code&lt;/a&gt;&lt;/em&gt;
+is one thing but applying what you&apos;ve just read into a project is a stretch. Where would you begin? What are the most
+important issues to tackle first? Books provide chapter-by-chapter explanations with code examples but no recipe on
+sensibly applying them to a production-grade application. What I aim to do is detail real-life instances of how I&apos;ve used
+certain practices in my career and the design tradeoffs that have come with it. This means in each post I&apos;ll analyze
+a use case and come up with a basic end-to-end solution. At the very least, anyone reading should be able to use these
+solutions as a guiding template.&lt;/p&gt;
+&lt;p&gt;I do plan on sometimes writing about other topics as well. From career growth to my own experiences with certain tools (I said
+I wouldn&apos;t 2 paragraphs ago but I can&apos;t resist), I hope to make tech more accessible to anyone willing to learn. Sometimes
+software engineering seems like tutorial-hell, but it simply comes down to our ability to differentiate what is important
+from what is noise.&lt;/p&gt;
 &lt;p&gt;These posts are also a way for me to go back and compare my current beliefs against what I thought in the past.
-I&apos;ve re-prioritized certain aspects of building software a few times over the past 5 years so I hope this will measure
-the maturity of how I evaluate the discipline overall.&lt;/p&gt;
-&lt;p&gt;So welcome! I hope you&apos;ll join me on this journey of building things that impact the world ☺️&lt;/p&gt;</content:encoded></item></channel></rss>
+I&apos;ve re-prioritized certain aspects of building software a few times over the last 5 years, so I hope writing
+will help me track changes in how I evaluate the discipline overall.&lt;/p&gt;
+&lt;p&gt;If you&apos;ve stuck around, welcome! It&apos;s going to be an exciting journey of building things that impact the world! ☺️&lt;/p&gt;</content:encoded></item></channel></rss>
