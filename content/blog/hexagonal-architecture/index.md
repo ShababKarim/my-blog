@@ -1,6 +1,6 @@
 ---
 title: Hexagonal Architecture in Javascript
-date: "2023-02-02T00:00:00.000Z"
+date: "2024-02-02T00:00:00.000Z"
 description: "Hexagonal Architecture (a.k.a Ports & Adapters, Clean Architecture, etc.) is a pattern in software devlopment that describes how to effectively achieve 'separation of concerns.'"
 ---
 
@@ -46,7 +46,7 @@ Let's go ahead and build a basic app to demonstrate these concepts 🚀
 
 ### *The App*
 
-**Note**: To follow along with the full code for the project, [click here](https://github.com/ShababKarim/my-blog-code/tree/main/hexagonal-architecture)
+**Note**: To follow along with the full code for the project, [click here](https://github.com/ShababKarim/my-blog-code/tree/main/hexagonal-architecture).
 
 Let's define the requirements for this project.
 
