@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Software Engineering blog to discuss the latest trends and best practices in building great products]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 03 Feb 2024 04:59:33 GMT</lastBuildDate><item><title><![CDATA[Hexagonal Architecture in Javascript]]></title><description><![CDATA[Hexagonal Architecture (a.k.a Ports & Adapters, Clean Architecture, etc.) is a pattern in software devlopment that describes how to…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/hexagonal-architecture/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/hexagonal-architecture/</guid><pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Hexagonal Architecture (a.k.a Ports &amp;#x26; Adapters, Clean Architecture, etc.) is a pattern in software devlopment that describes how to effectively achieve &apos;separation of concerns.&apos;&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Software Engineering blog to discuss the latest trends and best practices in building great products]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 04 Feb 2024 01:54:12 GMT</lastBuildDate><item><title><![CDATA[Hexagonal Architecture in Javascript]]></title><description><![CDATA[Hexagonal Architecture (a.k.a Ports & Adapters, Clean Architecture, etc.) is a pattern in software devlopment that describes how to…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/hexagonal-architecture/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/hexagonal-architecture/</guid><pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Hexagonal Architecture (a.k.a Ports &amp;#x26; Adapters, Clean Architecture, etc.) is a pattern in software devlopment that describes how to effectively achieve &apos;separation of concerns.&apos;&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;em&gt;So. Many. Packages.&lt;/em&gt;&lt;/h3&gt;
 &lt;p&gt;Software engineering has evolved over time to require us to write less code than ever before. Think about how incredibly easy it is to learn to publish a package with utility functions to your favorite registry. There seems to be a Javascript package to do &lt;a href=&quot;https://dev.to/codesphere/javascript-flaws-5-stupid-npm-packages-5fi&quot;&gt;just about anything&lt;/a&gt; these days 😅&lt;/p&gt;
 &lt;p&gt;These integrations present risks for our application. Imagine a package becomes outdated, begins to fail testing, or worse, has security vulnerabilities. The Clean Code mantra of wrapping third-party dependencies (via the &lt;a href=&quot;https://github.com/ryanmcdermott/clean-code-javascript#dependency-inversion-principle-dip&quot;&gt;Dependency Inversion Principle&lt;/a&gt;) is important in redcuing bloat and the risk of using &quot;bad&quot; packages.&lt;/p&gt;
@@ -7,7 +7,7 @@
 &lt;p&gt;Ultimately, we need to avoid being tied to something that may change in the future. Instead, we should focus on designing our applications focused on solving business problems rather than picking technologies. &lt;a href=&quot;https://alistair.cockburn.us/hexagonal-architecture/&quot;&gt;Hexagonal Architecture&lt;/a&gt;, as proposed by Alistair Cockburn, describes how to create apps that are &quot;developed and tested in isolation from its eventual run-time devices and databases.&quot;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -18,20 +18,20 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 68.35443037974683%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHpDrIVeWQ//8QAGBABAQEBAQAAAAAAAAAAAAAAAgEDEiH/2gAIAQEAAQUC2aEGjjjkjy7gw5U8n//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhIhMf/aAAgBAwEBPwFONd6Yf//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAgEBPwGsf//EABsQAAMAAwEBAAAAAAAAAAAAAAABEQIhMRJx/9oACAEBAAY/Au7ZM30jyr+DrL6pt0//xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFRYf/aAAgBAQABPyFUF0zOJTJjJlAYsVZVXPk3qXULQi9Z/9oADAMBAAIAAwAAABDfD//EABkRAQACAwAAAAAAAAAAAAAAAAEAETGR8P/aAAgBAwEBPxC2BC3x2p//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EGoTBU//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhYTFRgZGx/9oACAEBAAE/EMza8RXrcPtFCC63BauSRb6mdcDTj1DqcMkyPmaYUB8n/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 68.24324324324324%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHpDrIVeWQ//8QAGBABAQEBAQAAAAAAAAAAAAAAAgEDEiH/2gAIAQEAAQUC2aEGjjjkjy7gw5U8n//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhIhMf/aAAgBAwEBPwFONd6Yf//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAgEBPwGsf//EABsQAAMAAwEBAAAAAAAAAAAAAAABEQIhMRJx/9oACAEBAAY/Au7ZM30jyr+DrL6pt0//xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFRYf/aAAgBAQABPyFUF0zOJTJjJlAYsVZVXPk3qXULQi9Z/9oADAMBAAIAAwAAABDfD//EABkRAQACAwAAAAAAAAAAAAAAAAEAETGR8P/aAAgBAwEBPxC2BC3x2p//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EGoTBU//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhYTFRgZGx/9oACAEBAAE/EMza8RXrcPtFCC63BauSRb6mdcDTj1DqcMkyPmaYUB8n/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Hexagonal Architecture Diagram&quot;
         title=&quot;&quot;
-        src=&quot;/static/d2a22eda273b891c251bbbdbb1efd832/828fb/hexagonal.jpg&quot;
-        srcset=&quot;/static/d2a22eda273b891c251bbbdbb1efd832/ff44c/hexagonal.jpg 158w,
-/static/d2a22eda273b891c251bbbdbb1efd832/a6688/hexagonal.jpg 315w,
-/static/d2a22eda273b891c251bbbdbb1efd832/828fb/hexagonal.jpg 630w,
-/static/d2a22eda273b891c251bbbdbb1efd832/0ede0/hexagonal.jpg 945w,
-/static/d2a22eda273b891c251bbbdbb1efd832/3ac88/hexagonal.jpg 1260w,
+        src=&quot;/static/d2a22eda273b891c251bbbdbb1efd832/1c72d/hexagonal.jpg&quot;
+        srcset=&quot;/static/d2a22eda273b891c251bbbdbb1efd832/a80bd/hexagonal.jpg 148w,
+/static/d2a22eda273b891c251bbbdbb1efd832/1c91a/hexagonal.jpg 295w,
+/static/d2a22eda273b891c251bbbdbb1efd832/1c72d/hexagonal.jpg 590w,
+/static/d2a22eda273b891c251bbbdbb1efd832/a8a14/hexagonal.jpg 885w,
+/static/d2a22eda273b891c251bbbdbb1efd832/fbd2c/hexagonal.jpg 1180w,
 /static/d2a22eda273b891c251bbbdbb1efd832/d165a/hexagonal.jpg 1400w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
         decoding=&quot;async&quot;
@@ -58,24 +58,24 @@
 &lt;p&gt;It&apos;s simpler than differentiating between a &quot;repository&quot; and a &quot;data source&quot; because those names could be interchangeable in other contexts.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 93.67088607594937%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAATABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHvSZk1haAD/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECEAMhMf/aAAgBAQABBQKkPZjg4i5f/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGRAAAQUAAAAAAAAAAAAAAAAAAQAQESAx/9oACAEBAAY/An1GTX//xAAbEAACAwADAAAAAAAAAAAAAAARIQABYSAxUf/aAAgBAQABPyFnIUrM6OVaqbyHwtmh3h//2gAMAwEAAgADAAAAEEsPAP/EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQMBAT8QrQme/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAABESD/2gAIAQIBAT8QARbj/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITFRocH/2gAIAQEAAT8QW009ZG6WQcE2JShHxidYIXqacP3ZsV+6UXdbEE0gAUFT/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 93.24324324324323%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAATABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHvSZk1haAD/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECEAMhMf/aAAgBAQABBQKkPZjg4i5f/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGRAAAQUAAAAAAAAAAAAAAAAAAQAQESAx/9oACAEBAAY/An1GTX//xAAbEAACAwADAAAAAAAAAAAAAAARIQABYSAxUf/aAAgBAQABPyFnIUrM6OVaqbyHwtmh3h//2gAMAwEAAgADAAAAEEsPAP/EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQMBAT8QrQme/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAABESD/2gAIAQIBAT8QARbj/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITFRocH/2gAIAQEAAT8QW009ZG6WQcE2JShHxidYIXqacP3ZsV+6UXdbEE0gAUFT/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Ports &amp;amp; Adapters Diagram&quot;
         title=&quot;&quot;
-        src=&quot;/static/116e172378b9eed08fca6b3ce8865c59/828fb/ports-and-adapters.jpg&quot;
-        srcset=&quot;/static/116e172378b9eed08fca6b3ce8865c59/ff44c/ports-and-adapters.jpg 158w,
-/static/116e172378b9eed08fca6b3ce8865c59/a6688/ports-and-adapters.jpg 315w,
-/static/116e172378b9eed08fca6b3ce8865c59/828fb/ports-and-adapters.jpg 630w,
-/static/116e172378b9eed08fca6b3ce8865c59/0ede0/ports-and-adapters.jpg 945w,
-/static/116e172378b9eed08fca6b3ce8865c59/3ac88/ports-and-adapters.jpg 1260w,
+        src=&quot;/static/116e172378b9eed08fca6b3ce8865c59/1c72d/ports-and-adapters.jpg&quot;
+        srcset=&quot;/static/116e172378b9eed08fca6b3ce8865c59/a80bd/ports-and-adapters.jpg 148w,
+/static/116e172378b9eed08fca6b3ce8865c59/1c91a/ports-and-adapters.jpg 295w,
+/static/116e172378b9eed08fca6b3ce8865c59/1c72d/ports-and-adapters.jpg 590w,
+/static/116e172378b9eed08fca6b3ce8865c59/a8a14/ports-and-adapters.jpg 885w,
+/static/116e172378b9eed08fca6b3ce8865c59/fbd2c/ports-and-adapters.jpg 1180w,
 /static/116e172378b9eed08fca6b3ce8865c59/e343f/ports-and-adapters.jpg 1541w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
         decoding=&quot;async&quot;
